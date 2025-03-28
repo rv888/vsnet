@@ -47,6 +47,9 @@ a {
   .black-section a {
     color: #fff;
     font-weight: bold; }
+  .black-section p {
+    color: #fff;
+    font-size: 20px; }
 
 .grid-section {
   background-image: url("/assets/img/back1.jpg");
